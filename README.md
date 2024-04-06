@@ -6,7 +6,7 @@ Relatii intre entitati:
 - Reteaua este definita de multimea utilizatorilor si a relatiilor de prietenie dintre acestia
 - Mesajele se pot trimite intre doi utilizatori care sunt prieteni
 
-Cerinte non-funționale:
+Cerinte non-funtionale:
 - Arhitectura stratificata 
 - DDD (Domain Driven Design) 
 - Validarea datelor (Strategy Pattern) 
